@@ -5,6 +5,7 @@ The aim of the project was to create a website using HTML and CSS. An important 
 
 ## Features
 1. Website built on the basis of a given example 
+2. Methodology BEM was used in this task
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
